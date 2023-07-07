@@ -1,0 +1,33 @@
+/* Normal */
+
+@font-face {
+  font-family: Orkney;
+  src: url(../fonts/orkney-light.otf) format('opentype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: block
+}
+
+@font-face {
+  font-family: Orkney;
+  src: url(../fonts/orkney-regular.otf) format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: block
+}
+
+@font-face {
+  font-family: Orkney;
+  src: url(../fonts/orkney-medium.otf) format('opentype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: block
+}
+
+@font-face {
+  font-family: Orkney;
+  src: url(../fonts/orkney-bold.otf) format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: block
+}

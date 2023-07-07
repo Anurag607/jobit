@@ -1,4 +1,4 @@
-import "../style";
+import "../style/globals.css";
 import type { Metadata } from "next";
 import { Inter, Comfortaa } from "next/font/google";
 
